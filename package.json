@@ -1,0 +1,9 @@
+{
+    "name": "borken-map-bot",
+    "version": "1.0.0",
+    "description": "",
+    "devDependencies": {
+        "serverless": "^1.23.0"
+    },
+    "author": "Vincent Sarago"
+}
